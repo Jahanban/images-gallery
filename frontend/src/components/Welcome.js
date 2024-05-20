@@ -6,7 +6,7 @@ const Welcome = () => (
     <h1>Images Gallery</h1>
     <p>
       This is a simple React application that retrieves photos using Unsplash
-      API. In order to start enter any photo search term in the input field.
+      API. In order to search for any photo enter the title in the input field.
     </p>
     <p>
       <Button variant="primary" href="https://unsplash.com" target="_blank">
