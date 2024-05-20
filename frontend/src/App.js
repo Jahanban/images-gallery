@@ -20,6 +20,7 @@ function App() {
       .catch((err) => {
         console.log(err);
       });
+    setWord("");
   };
   // console.log(process.env.REACT_APP_UNSPALSH_KEY);
   return (
